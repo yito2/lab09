@@ -41,4 +41,12 @@ p { margin-top: 0; }
 	border: 2px black solid;
 	margin: 15px;
 	padding: 15px;
+	height: 200px;
+}
+
+#icon-photo {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 15px;
 }
