@@ -26,3 +26,19 @@ p { margin-top: 0; }
 	text-align: left;
 	overflow: auto;
 }
+
+.first {
+	background-image: url("images/forest.jpg");
+}
+
+.colophon {
+	margin: auto;
+    width: 75%;
+    padding: 10px;
+}
+
+.card {
+	border: 2px black solid;
+	margin: 15px;
+	padding: 15px;
+}
