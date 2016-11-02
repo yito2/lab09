@@ -78,7 +78,7 @@ p { margin-top: 0; }
     width: 75%;
 }
 
-#icon-photo {
+.icon-photo {
 	width: 175px;
 	height: 175px;
 	float: left;
